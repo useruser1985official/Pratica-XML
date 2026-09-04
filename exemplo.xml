@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedido id="12345">
+    <cliente>
+        <nome>João Silva</nome>
+        <email>joao@email.com</email>
+        <endereco>
+            <rua>Rua das Flores</rua>
+            <numero>100</numero>
+            <cidade>São Paulo</cidade>
+            <estado>SP</estado>
+            <cep>01000-000</cep>
+        </endereco>
+    </cliente>
+    <produtos>
+        <produto codigo="A001">
+            <nome>Notebook</nome>
+            <quantidade>1</quantidade>
+            <preco>3500.00</preco>
+        </produto>
+        <produto codigo="B002">
+            <nome>Mouse</nome>
+            <quantidade>2</quantidade>
+            <preco>100.00</preco>
+        </produto>
+    </produtos>
+    <pagamento>
+        <metodo>Cartão de crédito</metodo>
+        <parcelas>10</parcelas>
+    </pagamento>
+    <total>3700.00</total>
+    <entrega fazer="true"/>
+</pedido>
