@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa>
+    <funcionarios>
+        <funcionario matricula="1234">
+            <nome>Fulano da Silva</nome>
+            <idade>30</idade>
+            <email>fulano@gmail.com</email>
+            <telefone>1234-5678</telefone>
+            <endereco>
+                <rua>Rua do Sabão</rua>
+                <numero>25</numero>
+                <bairro>Centro</bairro>
+                <cidade>São Paulo</cidade>
+                <estado>SP</estado>
+            </endereco>
+            <funcao>Programador</funcao>
+            <homeOffice status="true"/>
+        </funcionario>
+        <funcionario matricula="4321">
+            <nome>Beltrano de Souza</nome>
+            <idade>45</idade>
+            <email>beltrano@hotmail.com</email>
+            <telefone>9876-5432</telefone>
+            <endereco>
+                <rua>Rua dos Bobos</rua>
+                <numero>0</numero>
+                <bairro>Vila Fictícia</bairro>
+                <cidade>Osasco</cidade>
+                <estado>SP</estado>
+            </endereco>
+            <funcao>Gerente</funcao>
+            <homeOffice status="false"/>
+        </funcionario>
+    </funcionarios>
+</empresa>

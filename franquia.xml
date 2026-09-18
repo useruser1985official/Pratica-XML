@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<franquia>
+    <filmes>
+        <filme>
+            <titulo>Batman</titulo>
+            <diretor>Tim Burton</diretor>
+            <duracao>126</duracao>
+            <genero>
+                <tipo>Ação</tipo>
+                <tipo>Fantasia</tipo>
+            </genero>
+            <ano>1989</ano>
+            <elenco>
+                <ator>Michael Keaton</ator>
+                <ator>Jack Nicholson</ator>
+                <ator>Kim Basinger</ator>
+                <ator>Michael Gough</ator>
+                <ator>Billy Dee Williams</ator>
+            </elenco>
+        </filme>
+        <filme>
+            <titulo>Batman, o Retorno</titulo>
+            <diretor>Tim Burton</diretor>
+            <duracao>126</duracao>
+            <genero>
+                <tipo>Ação</tipo>
+                <tipo>Fantasia</tipo>
+            </genero>
+            <ano>1992</ano>
+            <elenco>
+                <ator>Michael Keaton</ator>
+                <ator>Michelle Pfeiffer</ator>
+                <ator>Dany DeVito</ator>
+                <ator>Michael Gough</ator>
+                <ator>Christopher Walker</ator>
+            </elenco>
+        </filme>
+    </filmes>
+</franquia>
