@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedido>
+    <comidas>
+        <comida>
+            <item>Hambúrguer</item>
+            <preco>18.99</preco>
+            <quantidade>2</quantidade>
+        </comida>
+        <comida>
+            <item>Batata Frita</item>
+            <preco>12.99</preco>
+            <quantidade>1</quantidade>
+        </comida>
+    </comidas>
+    <bebidas>
+        <bebida>
+            <item>Coca-Cola</item>
+            <preco>12.99</preco>
+            <quantidade>1</quantidade>
+        </bebida>
+        <bebida>
+            <item>Guaraná Kuat</item>
+            <preco>10.99</preco>
+            <quantidade>1</quantidade>
+        </bebida>
+    </bebidas>
+    <outros>
+        <outro>
+            <item>Molho Barbecue</item>
+            <preco>2.99</preco>
+            <quantidade>2</quantidade>
+        </outro>
+        <outro>
+            <item>Sundae</item>
+            <preco>10.99</preco>
+            <quantidade>2</quantidade>
+        </outro>
+    </outros>
+    <total>102.91</total>
+</pedido>
